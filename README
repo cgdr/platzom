@@ -1,0 +1,24 @@
+#Platzom
+
+Platzom es un idioma inventado par el [curso de fundamento de javascript](http://platzi.com/js)
+
+## Descripción del idioma
+- Si la palabra termina con "ar", se le quitan esas dos letras
+
+## Instalación
+```
+npm install platzom
+```
+
+## Uso
+```
+import platzom from 'platzom'
+
+platzom("Programar")
+```
+
+## Créditos
+- [Coco]()
+
+## Licencia 
+[MIT](https://opensource.org/licenses/MIT)
